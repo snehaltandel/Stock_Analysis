@@ -1,0 +1,1 @@
+Stock values have been a challenge to be predicted by many Data Scientists where various algorithms happen to fail for numeruos reasons. This project aims to achieve maximum fault tolerance and minumum errors in the results.
